@@ -1,0 +1,11 @@
+---
+title: "JaneEverydayDoe's website"
+author: "WY"
+date: "7/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
